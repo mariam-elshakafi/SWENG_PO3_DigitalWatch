@@ -1,6 +1,5 @@
 # SWENG_PO3_DigitalWatch
-A digital watch that's yet to be specified :D
-
-yarb sb7na w raba7na w ben 3bedak ma tfda7na xD
-
-Bassem is here!
+A digital watch that has 3 modes of operation:
+1. Normal Clock
+2. Stop Watch
+3. Alarm
