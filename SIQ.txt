@@ -1,0 +1,6 @@
+Q1. What display device should be used?! (LCD or 7SEG)
+Q2. More detailes about how to switch between the features?
+Q3. What the size of the final prduct?
+Q4. Should we use Real Time Clock?
+Q5. What about the power supply battery or Adaptor?
+Q6. What is the limit of the stop watch?
